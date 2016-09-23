@@ -4,6 +4,10 @@ WeApp - 掘金
 * 模拟掘金首页信息流
 * 路由跳转文章页
 
+## 预览
+
+![](https://github.com/hilongjw/weapp-gold/blob/master/preview.gif)
+
 ## 使用
 
 克隆本项目 -> 在微信开发工具中添加项目 -> 选择项目目录
